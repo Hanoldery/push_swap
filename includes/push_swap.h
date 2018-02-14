@@ -6,13 +6,13 @@
 /*   By: pgerbaud <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/01/22 17:33:13 by pgerbaud          #+#    #+#             */
-/*   Updated: 2018/01/23 16:47:30 by pgerbaud         ###   ########.fr       */
+/*   Updated: 2018/01/31 17:57:51 by pgerbaud         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef PUSH_SWAP_H
 # define PUSH_SWAP_H
-#include <stdio.h>
+
 # include "../libft/includes/libft.h"
 
 typedef int *(*t_ope)(int *a, int *b, int size);
